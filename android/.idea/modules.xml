@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/googlemaptask.iml" filepath="$PROJECT_DIR$/.idea/modules/googlemaptask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.@react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.@react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.@react-native-firebase_messaging.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.@react-native-firebase_messaging.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.@react-native-firebase_messaging.main.iml" filepath="$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.@react-native-firebase_messaging.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.@react-native-firebase_messaging.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.@react-native-firebase_messaging.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/googlemaptask.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/googlemaptask.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/googlemaptask.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/googlemaptask.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/googlemaptask.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/googlemaptask.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/googlemaptask.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/googlemaptask.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-387410977/googlemaptask.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-387410977/googlemaptask.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-387410977/googlemaptask.react-native-community_geolocation.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-387410977/googlemaptask.react-native-community_geolocation.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-387410977/googlemaptask.react-native-community_geolocation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-387410977/googlemaptask.react-native-community_geolocation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-387410977/googlemaptask.react-native-community_geolocation.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-387410977/googlemaptask.react-native-community_geolocation.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/378707450/googlemaptask.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/378707450/googlemaptask.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/378707450/googlemaptask.react-native-firebase_app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/378707450/googlemaptask.react-native-firebase_app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/378707450/googlemaptask.react-native-firebase_app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/378707450/googlemaptask.react-native-firebase_app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/378707450/googlemaptask.react-native-firebase_app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/378707450/googlemaptask.react-native-firebase_app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1891895633/googlemaptask.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1891895633/googlemaptask.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1891895633/googlemaptask.react-native-firebase_auth.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1891895633/googlemaptask.react-native-firebase_auth.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1891895633/googlemaptask.react-native-firebase_auth.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1891895633/googlemaptask.react-native-firebase_auth.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1891895633/googlemaptask.react-native-firebase_auth.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1891895633/googlemaptask.react-native-firebase_auth.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.react-native-firebase_messaging.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.react-native-firebase_messaging.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.react-native-firebase_messaging.main.iml" filepath="$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.react-native-firebase_messaging.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.react-native-firebase_messaging.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/947128605/googlemaptask.react-native-firebase_messaging.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2023788508/googlemaptask.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/2023788508/googlemaptask.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2023788508/googlemaptask.react-native-google-signin_google-signin.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2023788508/googlemaptask.react-native-google-signin_google-signin.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2023788508/googlemaptask.react-native-google-signin_google-signin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2023788508/googlemaptask.react-native-google-signin_google-signin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2023788508/googlemaptask.react-native-google-signin_google-signin.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2023788508/googlemaptask.react-native-google-signin_google-signin.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/942548582/googlemaptask.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/942548582/googlemaptask.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/942548582/googlemaptask.react-native-maps.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/942548582/googlemaptask.react-native-maps.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/942548582/googlemaptask.react-native-maps.main.iml" filepath="$PROJECT_DIR$/.idea/modules/942548582/googlemaptask.react-native-maps.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/942548582/googlemaptask.react-native-maps.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/942548582/googlemaptask.react-native-maps.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-915683569/googlemaptask.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-915683569/googlemaptask.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-915683569/googlemaptask.react-native-push-notification.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-915683569/googlemaptask.react-native-push-notification.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-915683569/googlemaptask.react-native-push-notification.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-915683569/googlemaptask.react-native-push-notification.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-915683569/googlemaptask.react-native-push-notification.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-915683569/googlemaptask.react-native-push-notification.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/79580160/googlemaptask.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/79580160/googlemaptask.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/79580160/googlemaptask.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/79580160/googlemaptask.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/79580160/googlemaptask.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/79580160/googlemaptask.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/79580160/googlemaptask.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/79580160/googlemaptask.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1054299112/googlemaptask.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1054299112/googlemaptask.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1054299112/googlemaptask.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1054299112/googlemaptask.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1054299112/googlemaptask.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1054299112/googlemaptask.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1054299112/googlemaptask.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1054299112/googlemaptask.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1227016682/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1227016682/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1227016682/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1227016682/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1227016682/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1227016682/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>

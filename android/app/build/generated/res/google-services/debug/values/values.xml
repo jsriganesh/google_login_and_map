@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">447225123559-13ddkipn4oqc0lpk4splb57c4ktna51q.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://map-task-1d75f-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">447225123559</string>
+    <string name="google_api_key" translatable="false">AIzaSyBVRTp3QNx3k2Si6gQhnK0qmtWRA_X_TOg</string>
+    <string name="google_app_id" translatable="false">1:447225123559:android:c14e2f45746aba5a7d4842</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBVRTp3QNx3k2Si6gQhnK0qmtWRA_X_TOg</string>
+    <string name="google_storage_bucket" translatable="false">map-task-1d75f.appspot.com</string>
+    <string name="project_id" translatable="false">map-task-1d75f</string>
+</resources>
